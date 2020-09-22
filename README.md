@@ -55,3 +55,7 @@ Parent = mother, father
 Child = daughter, son, stepdaughter, stepson
 
 Some children traveled only with a nanny, therefore parch=0 for them.
+
+# What I did in "prediction.ipynb"
+
+firstly, I have dropped the column/data which is not required for the prediction(for example name, address, etc.). then I filled the missing values, finally applied the decision tree method using sklearn.
