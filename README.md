@@ -67,7 +67,9 @@ Decision tree is a type of supervised learning algorithm that can be used in bot
 # why decision tree for this problem
 
 a) Decision trees can handle multidimensional data.
+
 b) It works for both categorical and continuous input and output variables.
+
 c) Decision tree construction does not involve any domain knowledge or parameter setting, and therefore is appropriate for exploratory knowledge discovery.
 
 Disadvantages of decision trees: They are unstable, meaning that a small change in the data can lead to a large change in the structure of the optimal decision tree.
