@@ -59,3 +59,15 @@ Some children traveled only with a nanny, therefore parch=0 for them.
 # What I did in "prediction.ipynb"
 
 firstly, I have dropped the column/data which is not required for the prediction(for example name, address, etc.). then I filled the missing values, finally applied the decision tree method using sklearn.
+
+# Decision Tree
+
+Decision tree is a type of supervised learning algorithm that can be used in both regression and classification problems (mostly used for classification problems). It works for both categorical and continuous input and output variables.
+
+# why decision tree for this problem
+
+a) Decision trees can handle multidimensional data.
+b) It works for both categorical and continuous input and output variables.
+c) Decision tree construction does not involve any domain knowledge or parameter setting, and therefore is appropriate for exploratory knowledge discovery.
+
+Disadvantages of decision trees: They are unstable, meaning that a small change in the data can lead to a large change in the structure of the optimal decision tree.
